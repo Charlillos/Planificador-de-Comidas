@@ -58,7 +58,7 @@ color:#370377;
 
    
 <center> <h1> BIENVENIDOS A NUESTRA PÁGINA WEB QUE LE AYUDARÁ A ELEGIR SU PRÓXIMO PLATILLO</h1> </center>
-<center><link href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2975y5Wi7suYu48FfPSEZSmjfRBvPjmsH4g&s">
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2975y5Wi7suYu48FfPSEZSmjfRBvPjmsH4g&s">
  </center>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
