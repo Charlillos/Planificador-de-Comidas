@@ -58,7 +58,7 @@ color:#370377;
 
    
 <center> <h1> BIENVENIDOS A NUESTRA PÁGINA WEB QUE LE AYUDARÁ A ELEGIR SU PRÓXIMO PLATILLO</h1> </center>
-<center><img src="C:\Users\Carlitos\OneDrive\Escritorio\Imagenes vscode\images (35).jpg">
+<center><img src="[C:\Users\Carlitos\OneDrive\Escritorio\Imagenes vscode\images (35).jpg](https://github.com/Charlillos/Planificador-de-Comidas/blob/main/README.md?plain=1)">
  </center>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
